@@ -1,0 +1,7 @@
+D:\Archivos w11\Documentos\CAPACITACION PROEM\SimulacroEvaluacion_p2\bin\Debug\SimulacroEvaluacion_p2.exe.config
+D:\Archivos w11\Documentos\CAPACITACION PROEM\SimulacroEvaluacion_p2\bin\Debug\SimulacroEvaluacion_p2.exe
+D:\Archivos w11\Documentos\CAPACITACION PROEM\SimulacroEvaluacion_p2\bin\Debug\SimulacroEvaluacion_p2.pdb
+D:\Archivos w11\Documentos\CAPACITACION PROEM\SimulacroEvaluacion_p2\obj\Debug\SimulacroEvaluacion_p2.csproj.CoreCompileInputs.cache
+D:\Archivos w11\Documentos\CAPACITACION PROEM\SimulacroEvaluacion_p2\obj\Debug\SimulacroEvaluacion_p2.exe
+D:\Archivos w11\Documentos\CAPACITACION PROEM\SimulacroEvaluacion_p2\obj\Debug\SimulacroEvaluacion_p2.pdb
+D:\Archivos w11\Documentos\CAPACITACION PROEM\SimulacroEvaluacion_p2\obj\Debug\SimulacroEvaluacion_p2.csproj.AssemblyReference.cache
